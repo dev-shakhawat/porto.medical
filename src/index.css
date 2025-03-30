@@ -50,9 +50,13 @@
   @apply bg-primary text-white font-primary py-3 px-6 uppercase;
 }
 
-/* header start */
+/* header */
 .timeMail{
   @apply flex items-center gap-2 text-tertiary text-[14px] font-primary;
 }
 
-/* header end */
+
+/* navbar */
+.navLink{
+  @apply text-secondary text-[14px] font-primary font-semibold hover:text-primary capitalize duration-300  ;
+}
