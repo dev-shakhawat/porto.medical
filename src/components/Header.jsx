@@ -26,7 +26,7 @@ const Header = () => {
                 <li><FaFacebookF className="" /></li>
                 <li><FaXTwitter className="" /></li>
             </ul>
-            <button type="button" className="btn text-[12px] h-[52px]  ">make an appointment</button>
+            <button type="button" className="btn text-[12px] h-[52px] py-3 px-6  ">make an appointment</button>
           </div>
         </div>
       </div>
