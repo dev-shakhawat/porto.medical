@@ -3,9 +3,6 @@ import React, { useState } from "react";
 const Banner = () => {
 
     let [slide , setSlide] = useState(false)
-    setInterval(() => {
-        setSlide(!slide)
-    } , 5000)
 
   return (
     <div className="bnrMain relative z-[1] ">
